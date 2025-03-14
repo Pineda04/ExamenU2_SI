@@ -14,7 +14,7 @@ Este es el examen de la segunda unidad, el cual consiste en:
 1. Clonar el repositorio
 
    ```bash
-   git clone 
+   git clone https://github.com/Pineda04/ExamenU2_SI.git
    ```
 
 2. Instalar dependencias
